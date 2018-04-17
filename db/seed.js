@@ -1,4 +1,4 @@
-const Character = require("../models/Character");
+const Character = require("./characters.js");
 const data = require("./characters.json");
 
 Character.remove({})
