@@ -1,0 +1,21 @@
+[
+  {
+    "build": "Stealth",
+    "weapons":
+      "Relentless Powerful Operators Sniper Rifle, Recon .50 Sniper Rifle, Shielded Gauss Rifle",
+    "perks": "Rifleman, Sneak, Pickpocket",
+    "faction": "Railroad"
+  },
+  {
+    "build": "Melee",
+    "weapons": "2076 World Series Bat, Atom's Judgement, Furious Power Fist",
+    "perks": "Basher, Armorer, Big Leagues, Adamantium Skeleton",
+    "faction": "Minutemen"
+  },
+  {
+    "build": "Automatic",
+    "weapons": "Gatling Laser, High Speed Shredding Minigun, Splattercannon",
+    "perks": "Commando, Steady Aim",
+    "faction": "Minutemen"
+  }
+]
